@@ -1,0 +1,56 @@
+body {
+  background: #e5e9f2;
+}
+
+
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: #8190a5;
+  min-height: 6rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  color: rgb(255, 255, 255);
+}
+
+.home {
+  margin-left: 4rem;
+}
+
+.headerTitle {
+  display: flex;
+  justify-content: space-around;
+}
+
+.headerTitle h3 {
+  margin: 1rem;
+}
+
+.message {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #47525e;
+}
+
+.message h1 {
+  display: block;
+  margin: 4rem 15rem;
+  font-size: 2rem;
+}
+
+.message span {
+  color: #5a6978;
+  font-style: italic;
+}
+
+.table {
+  background: white;
+  width: 80%;
+  margin: auto;
+}
