@@ -6,6 +6,7 @@ cd desafiosapo
 # Start front
 ```sh
 cd front
+npm install
 npm start
 # abra o navegador em localhost:3000
 ```
